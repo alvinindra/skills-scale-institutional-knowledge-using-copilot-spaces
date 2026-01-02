@@ -75,6 +75,81 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies, removes blockers, and ensures the team follows agreed processes.
+
+### Responsibilities
+- Run sprint planning, standups, and retrospectives
+- Help remove impediments and keep team focused
+- Coach team on agile best practices
+
+### Interactions
+Works closely with Project Managers (for project health), Developers (for daily flow), and Product Manager (for backlog and priorities).
+
+---
+
+## UX Designer
+
+### Role Summary
+Ensures that user experience and usability principles are applied to features and flows.
+
+### Responsibilities
+- Create wireframes, prototypes, and user flows
+- Conduct user interviews and gather feedback
+- Collaborate on requirements with Product Manager and Developers
+
+### Interactions
+Works with Product Manager (requirements), Developers (feature implementation), and Stakeholders (user feedback).
+
+---
+
+## QA Lead
+
+### Role Summary
+Coordinates testing strategy and ensures product meets quality standards prior to release.
+
+### Responsibilities
+- Design and oversee test plans
+- Coordinate manual and automated testing
+- Track and report defects
+
+### Interactions
+Partners with Developers (defect fixes), Project Managers (release readiness), and Release Manager.
+
+---
+
+## Business Analyst
+
+### Role Summary
+Bridges the gap between business needs and technical implementation.
+
+### Responsibilities
+- Gather and document business requirements
+- Analyze workflow and process gaps
+- Translate requirements into technical deliverables
+
+### Interactions
+Liaises with Stakeholders (requirements), Product Manager (priorities), and Developers (solutioning).
+
+---
+
+## Release Manager
+
+### Role Summary
+Oversees the deployment process, coordinates release planning, and ensures smooth delivery to production.
+
+### Responsibilities
+- Plan, schedule, and coordinate releases
+- Communicate release status and risks
+- Ensure rollback plans are in place
+
+### Interactions
+Collaborates with Project Manager, QA Lead, and Developers.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
